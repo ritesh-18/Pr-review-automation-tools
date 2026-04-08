@@ -1,3 +1,4 @@
+```
 PR Created
    ↓
 GitHub Actions
@@ -18,3 +19,4 @@ Send Result Back
 GitHub Status Check Updated
    ↓
 Merge Allowed / Blocked
+```
